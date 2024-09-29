@@ -1,0 +1,1 @@
+I did not write this code. I am trying to understand it and also keep a copy in case it gets taken down. Not sure how someone may find this, but please use the original and star it if you like it. https://github.com/pixeltris/TwitchAdSolutions 
